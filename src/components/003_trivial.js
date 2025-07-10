@@ -33,7 +33,7 @@ const trivial = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src={`${process.env.PUBLIC_URL}/notebooks/part2.html`}
+          src="lively-kleicha-068388.netlify.app"
           style={{ width: '80%', height: '450px', border: 'none' }}
           title="Notebook Part 2"
         />
@@ -61,7 +61,7 @@ const trivial = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src={`${process.env.PUBLIC_URL}/notebooks/part3.html`}
+          src="fabulous-syrniki-a1fe98.netlify.app"
           style={{ width: '80%', height: '400px', border: 'none' }}
           title="Notebook Part 3"
         />

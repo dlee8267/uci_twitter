@@ -17,7 +17,7 @@ const eda = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src={`${process.env.PUBLIC_URL}/notebooks/part1.html`}
+          src="poetic-youtiao-3aa3ce.netlify.app"
           style={{ width: '80%', height: '850px', border: 'none' }}
           title="Notebook Part 1"
         />

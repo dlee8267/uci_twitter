@@ -19,7 +19,7 @@ const training = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src={`${process.env.PUBLIC_URL}/notebooks/part4.html`}
+          src="wondrous-fox-f58168.netlify.app"
           style={{ width: '80%', height: '200px', border: 'none' }}
           title="Notebook Part 4"
         />
@@ -45,7 +45,7 @@ const training = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src={`${process.env.PUBLIC_URL}/notebooks/part5.html`}
+          src="resplendent-mooncake-061c86.netlify.app"
           style={{ width: '80%', height: '330px', border: 'none' }}
           title="Notebook Part 5"
         />
@@ -73,7 +73,7 @@ const training = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src={`${process.env.PUBLIC_URL}/notebooks/part6.html`}
+          src="golden-torte-a7ffaa.netlify.app"
           style={{ width: '80%', height: '850px', border: 'none' }}
           title="Notebook Part 6"
         />
@@ -90,7 +90,7 @@ const training = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src={`${process.env.PUBLIC_URL}/notebooks/part7.html`}
+          src="starlit-banoffee-e3939c.netlify.app"
           style={{ width: '80%', height: '225px', border: 'none' }}
           title="Notebook Part 7"
         />
@@ -113,7 +113,7 @@ const training = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src={`${process.env.PUBLIC_URL}/notebooks/part8.html`}
+          src="chipper-souffle-f8b3bc.netlify.app"
           style={{ width: '80%', height: '800px', border: 'none' }}
           title="Notebook Part 8"
         />

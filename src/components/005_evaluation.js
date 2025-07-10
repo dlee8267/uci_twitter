@@ -18,7 +18,7 @@ const evaluation = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src={`${process.env.PUBLIC_URL}/notebooks/part9.html`}
+          src="benevolent-truffle-689eb1.netlify.app"
           style={{ width: '80%', height: '425px', border: 'none' }}
           title="Notebook Part 9"
         />
@@ -54,7 +54,7 @@ const evaluation = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src={`${process.env.PUBLIC_URL}/notebooks/part10.html`}
+          src="gentle-beignet-574a7d.netlify.app"
           style={{ width: '80%', height: '900px', border: 'none' }}
           title="Notebook Part 10"
         />

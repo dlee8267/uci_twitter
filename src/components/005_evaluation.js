@@ -18,7 +18,7 @@ const evaluation = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src="benevolent-truffle-689eb1.netlify.app"
+          src="https://benevolent-truffle-689eb1.netlify.app/index.html"
           style={{ width: '80%', height: '425px', border: 'none' }}
           title="Notebook Part 9"
         />
@@ -54,7 +54,7 @@ const evaluation = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src="gentle-beignet-574a7d.netlify.app"
+          src="https://gentle-beignet-574a7d.netlify.app/index.html"
           style={{ width: '80%', height: '900px', border: 'none' }}
           title="Notebook Part 10"
         />

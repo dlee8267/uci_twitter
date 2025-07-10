@@ -17,7 +17,7 @@ const eda = () => {
         justifyContent: 'center',
       }}>
         <iframe
-          src="poetic-youtiao-3aa3ce.netlify.app"
+          src="https://poetic-youtiao-3aa3ce.netlify.app/index.html"
           style={{ width: '80%', height: '850px', border: 'none' }}
           title="Notebook Part 1"
         />
